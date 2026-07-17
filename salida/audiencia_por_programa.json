@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "estacion": "RCE 106.9 FM",
+    "generado": "2026-07-17T19:22:30Z",
+    "total_muestras": 7,
+    "intervalo_minutos": 30,
+    "desde": "2026-07-16T20:28+02:00",
+    "hasta": "2026-07-17T21:22+02:00"
+  },
+  "programas": [
+    {
+      "programa": "La Grada",
+      "es_grabacion": false,
+      "muestras": 1,
+      "oyentes_medios": 83.0,
+      "pico_oyentes": 83,
+      "unicos_medios": 78.0,
+      "minutos_escuchados_estimados": 2490,
+      "por_dia": {
+        "vie": 83.0
+      }
+    },
+    {
+      "programa": "Starlink Talent",
+      "es_grabacion": false,
+      "muestras": 1,
+      "oyentes_medios": 8.0,
+      "pico_oyentes": 8,
+      "unicos_medios": 5.0,
+      "minutos_escuchados_estimados": 240,
+      "por_dia": {
+        "vie": 8.0
+      }
+    },
+    {
+      "programa": "La Corda Fluixa",
+      "es_grabacion": false,
+      "muestras": 1,
+      "oyentes_medios": 7.0,
+      "pico_oyentes": 7,
+      "unicos_medios": 4.0,
+      "minutos_escuchados_estimados": 210,
+      "por_dia": {
+        "jue": 7.0
+      }
+    },
+    {
+      "programa": "Sin programa (música)",
+      "es_grabacion": false,
+      "muestras": 4,
+      "oyentes_medios": 7.0,
+      "pico_oyentes": 7,
+      "unicos_medios": 4.0,
+      "minutos_escuchados_estimados": 840,
+      "por_dia": {
+        "vie": 7.0
+      }
+    }
+  ]
+}
