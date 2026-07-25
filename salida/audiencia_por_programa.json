@@ -1,11 +1,11 @@
 {
   "meta": {
     "estacion": "RCE 106.9 FM",
-    "generado": "2026-07-25T07:33:37Z",
-    "total_muestras": 40,
+    "generado": "2026-07-25T11:49:28Z",
+    "total_muestras": 41,
     "intervalo_minutos": 10,
     "desde": "2026-07-16T20:28+02:00",
-    "hasta": "2026-07-25T09:33+02:00"
+    "hasta": "2026-07-25T13:49+02:00"
   },
   "programas": [
     {
@@ -72,6 +72,18 @@
       }
     },
     {
+      "programa": "En la Ola Radio",
+      "es_grabacion": false,
+      "muestras": 2,
+      "oyentes_medios": 8.0,
+      "pico_oyentes": 9,
+      "unicos_medios": 5.0,
+      "minutos_escuchados_estimados": 160,
+      "por_dia": {
+        "sab": 8.0
+      }
+    },
+    {
       "programa": "Partido RCD Espanyol",
       "es_grabacion": false,
       "muestras": 1,
@@ -105,18 +117,6 @@
       "minutos_escuchados_estimados": 70,
       "por_dia": {
         "jue": 7.0
-      }
-    },
-    {
-      "programa": "En la Ola Radio",
-      "es_grabacion": false,
-      "muestras": 1,
-      "oyentes_medios": 7.0,
-      "pico_oyentes": 7,
-      "unicos_medios": 4.0,
-      "minutos_escuchados_estimados": 70,
-      "por_dia": {
-        "sab": 7.0
       }
     },
     {
