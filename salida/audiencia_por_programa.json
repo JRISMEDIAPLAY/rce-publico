@@ -1,11 +1,11 @@
 {
   "meta": {
     "estacion": "RCE 106.9 FM",
-    "generado": "2026-07-26T15:45:11Z",
-    "total_muestras": 47,
+    "generado": "2026-07-26T20:15:40Z",
+    "total_muestras": 48,
     "intervalo_minutos": 10,
     "desde": "2026-07-16T20:28+02:00",
-    "hasta": "2026-07-26T17:45+02:00"
+    "hasta": "2026-07-26T22:15+02:00"
   },
   "programas": [
     {
@@ -134,11 +134,11 @@
     {
       "programa": "Sin programa (música)",
       "es_grabacion": false,
-      "muestras": 32,
+      "muestras": 33,
       "oyentes_medios": 8.1,
       "pico_oyentes": 21,
       "unicos_medios": 5.0,
-      "minutos_escuchados_estimados": 2580,
+      "minutos_escuchados_estimados": 2660,
       "por_dia": {
         "vie": 7.3,
         "sab": 9.0,
