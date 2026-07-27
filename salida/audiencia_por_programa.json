@@ -1,11 +1,11 @@
 {
   "meta": {
     "estacion": "RCE 106.9 FM",
-    "generado": "2026-07-27T12:39:13Z",
-    "total_muestras": 50,
+    "generado": "2026-07-27T18:14:54Z",
+    "total_muestras": 51,
     "intervalo_minutos": 10,
     "desde": "2026-07-16T20:28+02:00",
-    "hasta": "2026-07-27T14:39+02:00"
+    "hasta": "2026-07-27T20:14+02:00"
   },
   "programas": [
     {
@@ -105,6 +105,18 @@
       "minutos_escuchados_estimados": 80,
       "por_dia": {
         "mar": 8.0
+      }
+    },
+    {
+      "programa": "Raíces del Balón",
+      "es_grabacion": false,
+      "muestras": 1,
+      "oyentes_medios": 8.0,
+      "pico_oyentes": 8,
+      "unicos_medios": 5.0,
+      "minutos_escuchados_estimados": 80,
+      "por_dia": {
+        "lun": 8.0
       }
     },
     {
