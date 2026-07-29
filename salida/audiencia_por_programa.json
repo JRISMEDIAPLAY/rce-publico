@@ -1,11 +1,11 @@
 {
   "meta": {
     "estacion": "RCE 106.9 FM",
-    "generado": "2026-07-29T10:17:55Z",
-    "total_muestras": 57,
+    "generado": "2026-07-29T16:04:50Z",
+    "total_muestras": 58,
     "intervalo_minutos": 10,
     "desde": "2026-07-16T20:28+02:00",
-    "hasta": "2026-07-29T12:17+02:00"
+    "hasta": "2026-07-29T18:04+02:00"
   },
   "programas": [
     {
@@ -130,6 +130,18 @@
       "minutos_escuchados_estimados": 80,
       "por_dia": {
         "lun": 8.0
+      }
+    },
+    {
+      "programa": "El Club del Buen Turismo",
+      "es_grabacion": false,
+      "muestras": 1,
+      "oyentes_medios": 8.0,
+      "pico_oyentes": 8,
+      "unicos_medios": 5.0,
+      "minutos_escuchados_estimados": 80,
+      "por_dia": {
+        "mie": 8.0
       }
     },
     {
