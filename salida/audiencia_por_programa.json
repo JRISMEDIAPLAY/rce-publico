@@ -1,11 +1,11 @@
 {
   "meta": {
     "estacion": "RCE 106.9 FM",
-    "generado": "2026-07-30T13:17:54Z",
-    "total_muestras": 62,
+    "generado": "2026-07-30T18:04:50Z",
+    "total_muestras": 63,
     "intervalo_minutos": 10,
     "desde": "2026-07-16T20:28+02:00",
-    "hasta": "2026-07-30T15:17+02:00"
+    "hasta": "2026-07-30T20:04+02:00"
   },
   "programas": [
     {
@@ -31,6 +31,18 @@
       "minutos_escuchados_estimados": 130,
       "por_dia": {
         "mie": 13.0
+      }
+    },
+    {
+      "programa": "La Corda Fluixa",
+      "es_grabacion": false,
+      "muestras": 2,
+      "oyentes_medios": 9.5,
+      "pico_oyentes": 12,
+      "unicos_medios": 5.0,
+      "minutos_escuchados_estimados": 190,
+      "por_dia": {
+        "jue": 9.5
       }
     },
     {
@@ -142,18 +154,6 @@
       "minutos_escuchados_estimados": 80,
       "por_dia": {
         "mie": 8.0
-      }
-    },
-    {
-      "programa": "La Corda Fluixa",
-      "es_grabacion": false,
-      "muestras": 1,
-      "oyentes_medios": 7.0,
-      "pico_oyentes": 7,
-      "unicos_medios": 4.0,
-      "minutos_escuchados_estimados": 70,
-      "por_dia": {
-        "jue": 7.0
       }
     },
     {
