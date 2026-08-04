@@ -1,11 +1,11 @@
 {
   "meta": {
     "estacion": "RCE 106.9 FM",
-    "generado": "2026-08-03T22:36:44Z",
-    "total_muestras": 81,
+    "generado": "2026-08-04T08:09:53Z",
+    "total_muestras": 82,
     "intervalo_minutos": 10,
     "desde": "2026-07-16T20:28+02:00",
-    "hasta": "2026-08-04T00:36+02:00"
+    "hasta": "2026-08-04T10:09+02:00"
   },
   "programas": [
     {
@@ -87,13 +87,13 @@
     {
       "programa": "La Torre de Babel",
       "es_grabacion": false,
-      "muestras": 1,
-      "oyentes_medios": 9.0,
+      "muestras": 2,
+      "oyentes_medios": 8.5,
       "pico_oyentes": 9,
-      "unicos_medios": 6.0,
-      "minutos_escuchados_estimados": 90,
+      "unicos_medios": 5.5,
+      "minutos_escuchados_estimados": 170,
       "por_dia": {
-        "mar": 9.0
+        "mar": 8.5
       }
     },
     {
