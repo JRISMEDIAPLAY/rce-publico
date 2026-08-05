@@ -1,11 +1,11 @@
 {
   "meta": {
     "estacion": "RCE 106.9 FM",
-    "generado": "2026-08-04T20:53:33Z",
-    "total_muestras": 84,
+    "generado": "2026-08-05T06:13:22Z",
+    "total_muestras": 85,
     "intervalo_minutos": 10,
     "desde": "2026-07-16T20:28+02:00",
-    "hasta": "2026-08-04T22:53+02:00"
+    "hasta": "2026-08-05T08:13+02:00"
   },
   "programas": [
     {
@@ -146,6 +146,18 @@
     },
     {
       "programa": "El Club del Buen Turismo",
+      "es_grabacion": false,
+      "muestras": 1,
+      "oyentes_medios": 8.0,
+      "pico_oyentes": 8,
+      "unicos_medios": 5.0,
+      "minutos_escuchados_estimados": 80,
+      "por_dia": {
+        "mie": 8.0
+      }
+    },
+    {
+      "programa": "La Hora Vikinga",
       "es_grabacion": false,
       "muestras": 1,
       "oyentes_medios": 8.0,
