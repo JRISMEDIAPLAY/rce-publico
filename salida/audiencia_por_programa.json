@@ -1,11 +1,11 @@
 {
   "meta": {
     "estacion": "RCE 106.9 FM",
-    "generado": "2026-08-05T22:32:55Z",
-    "total_muestras": 88,
+    "generado": "2026-08-06T08:06:02Z",
+    "total_muestras": 89,
     "intervalo_minutos": 10,
     "desde": "2026-07-16T20:28+02:00",
-    "hasta": "2026-08-06T00:32+02:00"
+    "hasta": "2026-08-06T10:06+02:00"
   },
   "programas": [
     {
@@ -74,6 +74,18 @@
     },
     {
       "programa": "El Club del Bienestar",
+      "es_grabacion": false,
+      "muestras": 1,
+      "oyentes_medios": 9.0,
+      "pico_oyentes": 9,
+      "unicos_medios": 6.0,
+      "minutos_escuchados_estimados": 90,
+      "por_dia": {
+        "jue": 9.0
+      }
+    },
+    {
+      "programa": "Francisco Sierra (Cultural)",
       "es_grabacion": false,
       "muestras": 1,
       "oyentes_medios": 9.0,
