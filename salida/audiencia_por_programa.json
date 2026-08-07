@@ -1,11 +1,11 @@
 {
   "meta": {
     "estacion": "RCE 106.9 FM",
-    "generado": "2026-08-07T12:28:01Z",
-    "total_muestras": 93,
+    "generado": "2026-08-07T15:35:21Z",
+    "total_muestras": 94,
     "intervalo_minutos": 10,
     "desde": "2026-07-16T20:28+02:00",
-    "hasta": "2026-08-07T14:28+02:00"
+    "hasta": "2026-08-07T17:35+02:00"
   },
   "programas": [
     {
@@ -36,13 +36,13 @@
     {
       "programa": "Starlink Talent",
       "es_grabacion": false,
-      "muestras": 3,
-      "oyentes_medios": 9.7,
+      "muestras": 4,
+      "oyentes_medios": 9.8,
       "pico_oyentes": 13,
-      "unicos_medios": 6.3,
-      "minutos_escuchados_estimados": 290,
+      "unicos_medios": 6.5,
+      "minutos_escuchados_estimados": 390,
       "por_dia": {
-        "vie": 9.7
+        "vie": 9.8
       }
     },
     {
