@@ -1,11 +1,11 @@
 {
   "meta": {
     "estacion": "RCE 106.9 FM",
-    "generado": "2026-08-13T12:35:08Z",
-    "total_muestras": 143,
+    "generado": "2026-08-13T16:11:11Z",
+    "total_muestras": 144,
     "intervalo_minutos": 10,
     "desde": "2026-07-16T20:28+02:00",
-    "hasta": "2026-08-13T14:35+02:00"
+    "hasta": "2026-08-13T18:11+02:00"
   },
   "programas": [
     {
@@ -89,11 +89,11 @@
     {
       "programa": "El Club del Bienestar",
       "es_grabacion": false,
-      "muestras": 1,
+      "muestras": 2,
       "oyentes_medios": 9.0,
       "pico_oyentes": 9,
       "unicos_medios": 6.0,
-      "minutos_escuchados_estimados": 90,
+      "minutos_escuchados_estimados": 180,
       "por_dia": {
         "jue": 9.0
       }
