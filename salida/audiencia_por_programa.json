@@ -1,11 +1,11 @@
 {
   "meta": {
     "estacion": "RCE 106.9 FM",
-    "generado": "2026-08-15T11:39:17Z",
-    "total_muestras": 163,
+    "generado": "2026-08-15T13:20:13Z",
+    "total_muestras": 164,
     "intervalo_minutos": 10,
     "desde": "2026-07-16T20:28+02:00",
-    "hasta": "2026-08-15T13:39+02:00"
+    "hasta": "2026-08-15T15:20+02:00"
   },
   "programas": [
     {
@@ -33,6 +33,18 @@
       "minutos_escuchados_estimados": 260,
       "por_dia": {
         "mie": 13.0
+      }
+    },
+    {
+      "programa": "La Hora de Rosa",
+      "es_grabacion": false,
+      "muestras": 1,
+      "oyentes_medios": 11.0,
+      "pico_oyentes": 11,
+      "unicos_medios": 8.0,
+      "minutos_escuchados_estimados": 110,
+      "por_dia": {
+        "sab": 11.0
       }
     },
     {
