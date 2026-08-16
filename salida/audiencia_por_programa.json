@@ -1,11 +1,11 @@
 {
   "meta": {
     "estacion": "RCE 106.9 FM",
-    "generado": "2026-08-16T17:40:37Z",
-    "total_muestras": 207,
+    "generado": "2026-08-16T18:11:23Z",
+    "total_muestras": 208,
     "intervalo_minutos": 10,
     "desde": "2026-07-16T20:28+02:00",
-    "hasta": "2026-08-16T19:40+02:00"
+    "hasta": "2026-08-16T20:11+02:00"
   },
   "programas": [
     {
@@ -26,13 +26,13 @@
     {
       "programa": "Partido RCD Espanyol",
       "es_grabacion": false,
-      "muestras": 6,
-      "oyentes_medios": 30.7,
+      "muestras": 7,
+      "oyentes_medios": 33.3,
       "pico_oyentes": 61,
-      "unicos_medios": 25.8,
-      "minutos_escuchados_estimados": 1840,
+      "unicos_medios": 28.4,
+      "minutos_escuchados_estimados": 2330,
       "por_dia": {
-        "dom": 30.7
+        "dom": 33.3
       }
     },
     {
