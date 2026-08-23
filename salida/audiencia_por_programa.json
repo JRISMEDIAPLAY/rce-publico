@@ -1,159 +1,245 @@
 {
   "meta": {
     "estacion": "RCE 106.9 FM",
-    "generado": "2026-08-16T18:51:55Z",
-    "total_muestras": 209,
+    "generado": "2026-08-23T17:40:39Z",
+    "total_muestras": 470,
     "intervalo_minutos": 10,
     "desde": "2026-07-16T20:28+02:00",
-    "hasta": "2026-08-16T20:51+02:00"
+    "hasta": "2026-08-23T19:40+02:00"
   },
   "programas": [
     {
       "programa": "La Grada",
       "es_grabacion": false,
-      "muestras": 5,
-      "oyentes_medios": 87.8,
-      "pico_oyentes": 112,
-      "unicos_medios": 80.2,
-      "minutos_escuchados_estimados": 4390,
+      "muestras": 30,
+      "oyentes_medios": 90.9,
+      "pico_oyentes": 132,
+      "unicos_medios": 82.6,
+      "minutos_escuchados_estimados": 27260,
       "por_dia": {
-        "vie": 83.0,
-        "mie": 107.5,
-        "lun": 35.0,
-        "mar": 106.0
+        "vie": 97.5,
+        "mie": 95.7,
+        "lun": 81.7,
+        "mar": 88.3,
+        "jue": 90.2
       }
     },
     {
       "programa": "Partido RCD Espanyol",
       "es_grabacion": false,
-      "muestras": 8,
-      "oyentes_medios": 36.2,
-      "pico_oyentes": 61,
-      "unicos_medios": 31.4,
-      "minutos_escuchados_estimados": 2900,
+      "muestras": 13,
+      "oyentes_medios": 34.3,
+      "pico_oyentes": 77,
+      "unicos_medios": 29.7,
+      "minutos_escuchados_estimados": 4460,
       "por_dia": {
-        "dom": 36.2
+        "dom": 34.3
       }
     },
     {
       "programa": "Metro Cuadrado",
       "es_grabacion": false,
-      "muestras": 2,
-      "oyentes_medios": 13.0,
+      "muestras": 4,
+      "oyentes_medios": 12.2,
       "pico_oyentes": 13,
-      "unicos_medios": 10.0,
-      "minutos_escuchados_estimados": 260,
-      "por_dia": {
-        "mie": 13.0
-      }
-    },
-    {
-      "programa": "La Hora de Rosa",
-      "es_grabacion": false,
-      "muestras": 1,
-      "oyentes_medios": 11.0,
-      "pico_oyentes": 11,
-      "unicos_medios": 8.0,
-      "minutos_escuchados_estimados": 110,
-      "por_dia": {
-        "sab": 11.0
-      }
-    },
-    {
-      "programa": "English Radio",
-      "es_grabacion": false,
-      "muestras": 3,
-      "oyentes_medios": 10.7,
-      "pico_oyentes": 12,
-      "unicos_medios": 7.7,
-      "minutos_escuchados_estimados": 320,
-      "por_dia": {
-        "sab": 10.7
-      }
-    },
-    {
-      "programa": "Starlink Talent",
-      "es_grabacion": false,
-      "muestras": 5,
-      "oyentes_medios": 9.8,
-      "pico_oyentes": 13,
-      "unicos_medios": 6.6,
+      "unicos_medios": 9.2,
       "minutos_escuchados_estimados": 490,
       "por_dia": {
-        "vie": 9.8
+        "mie": 12.2
       }
     },
     {
-      "programa": "La Corda Fluixa",
-      "es_grabacion": false,
+      "programa": "Grabación Sin Control",
+      "es_grabacion": true,
       "muestras": 2,
-      "oyentes_medios": 9.5,
+      "oyentes_medios": 11.5,
       "pico_oyentes": 12,
-      "unicos_medios": 5.0,
-      "minutos_escuchados_estimados": 190,
+      "unicos_medios": 8.5,
+      "minutos_escuchados_estimados": 230,
       "por_dia": {
-        "jue": 9.5
+        "jue": 11.5
       }
     },
     {
       "programa": "Kapital Empresa",
       "es_grabacion": false,
-      "muestras": 7,
-      "oyentes_medios": 9.4,
-      "pico_oyentes": 11,
-      "unicos_medios": 6.4,
-      "minutos_escuchados_estimados": 660,
+      "muestras": 16,
+      "oyentes_medios": 10.8,
+      "pico_oyentes": 17,
+      "unicos_medios": 7.7,
+      "minutos_escuchados_estimados": 1730,
       "por_dia": {
-        "mar": 11.0,
-        "mie": 8.0,
-        "jue": 9.0,
-        "vie": 9.7
-      }
-    },
-    {
-      "programa": "En la Ola Radio",
-      "es_grabacion": false,
-      "muestras": 4,
-      "oyentes_medios": 9.2,
-      "pico_oyentes": 12,
-      "unicos_medios": 6.2,
-      "minutos_escuchados_estimados": 370,
-      "por_dia": {
-        "sab": 9.2
-      }
-    },
-    {
-      "programa": "El Club del Bienestar",
-      "es_grabacion": false,
-      "muestras": 2,
-      "oyentes_medios": 9.0,
-      "pico_oyentes": 9,
-      "unicos_medios": 6.0,
-      "minutos_escuchados_estimados": 180,
-      "por_dia": {
-        "jue": 9.0
+        "mar": 12.0,
+        "mie": 10.7,
+        "jue": 10.2,
+        "vie": 11.0,
+        "lun": 9.0
       }
     },
     {
       "programa": "Francisco Sierra (Cultural)",
       "es_grabacion": false,
-      "muestras": 1,
-      "oyentes_medios": 9.0,
-      "pico_oyentes": 9,
-      "unicos_medios": 6.0,
-      "minutos_escuchados_estimados": 90,
+      "muestras": 2,
+      "oyentes_medios": 10.0,
+      "pico_oyentes": 11,
+      "unicos_medios": 7.0,
+      "minutos_escuchados_estimados": 200,
       "por_dia": {
-        "jue": 9.0
+        "jue": 10.0
+      }
+    },
+    {
+      "programa": "Miércoles de Tardeo",
+      "es_grabacion": false,
+      "muestras": 1,
+      "oyentes_medios": 10.0,
+      "pico_oyentes": 10,
+      "unicos_medios": 7.0,
+      "minutos_escuchados_estimados": 100,
+      "por_dia": {
+        "mie": 10.0
+      }
+    },
+    {
+      "programa": "Scriu cu Cratima",
+      "es_grabacion": false,
+      "muestras": 2,
+      "oyentes_medios": 10.0,
+      "pico_oyentes": 10,
+      "unicos_medios": 7.0,
+      "minutos_escuchados_estimados": 200,
+      "por_dia": {
+        "mie": 10.0
+      }
+    },
+    {
+      "programa": "Starlink Talent",
+      "es_grabacion": false,
+      "muestras": 8,
+      "oyentes_medios": 9.9,
+      "pico_oyentes": 13,
+      "unicos_medios": 6.8,
+      "minutos_escuchados_estimados": 790,
+      "por_dia": {
+        "vie": 9.9
+      }
+    },
+    {
+      "programa": "English Radio",
+      "es_grabacion": false,
+      "muestras": 7,
+      "oyentes_medios": 9.7,
+      "pico_oyentes": 12,
+      "unicos_medios": 6.7,
+      "minutos_escuchados_estimados": 680,
+      "por_dia": {
+        "sab": 9.7
+      }
+    },
+    {
+      "programa": "La Hora de Rosa",
+      "es_grabacion": false,
+      "muestras": 3,
+      "oyentes_medios": 9.7,
+      "pico_oyentes": 11,
+      "unicos_medios": 6.7,
+      "minutos_escuchados_estimados": 290,
+      "por_dia": {
+        "sab": 9.7
+      }
+    },
+    {
+      "programa": "El Club de Inventores",
+      "es_grabacion": false,
+      "muestras": 2,
+      "oyentes_medios": 9.5,
+      "pico_oyentes": 10,
+      "unicos_medios": 6.5,
+      "minutos_escuchados_estimados": 190,
+      "por_dia": {
+        "lun": 9.5
+      }
+    },
+    {
+      "programa": "La Corda Fluixa",
+      "es_grabacion": false,
+      "muestras": 3,
+      "oyentes_medios": 9.3,
+      "pico_oyentes": 12,
+      "unicos_medios": 5.3,
+      "minutos_escuchados_estimados": 280,
+      "por_dia": {
+        "jue": 9.3
+      }
+    },
+    {
+      "programa": "En la Ola Radio",
+      "es_grabacion": false,
+      "muestras": 6,
+      "oyentes_medios": 9.3,
+      "pico_oyentes": 12,
+      "unicos_medios": 6.3,
+      "minutos_escuchados_estimados": 560,
+      "por_dia": {
+        "sab": 9.3
+      }
+    },
+    {
+      "programa": "Emisión Entrevista Miriam",
+      "es_grabacion": false,
+      "muestras": 3,
+      "oyentes_medios": 9.3,
+      "pico_oyentes": 10,
+      "unicos_medios": 6.3,
+      "minutos_escuchados_estimados": 280,
+      "por_dia": {
+        "mar": 9.3
+      }
+    },
+    {
+      "programa": "El Club del Bienestar",
+      "es_grabacion": false,
+      "muestras": 4,
+      "oyentes_medios": 9.2,
+      "pico_oyentes": 10,
+      "unicos_medios": 6.2,
+      "minutos_escuchados_estimados": 370,
+      "por_dia": {
+        "jue": 9.2
+      }
+    },
+    {
+      "programa": "Raíces del Balón",
+      "es_grabacion": false,
+      "muestras": 2,
+      "oyentes_medios": 9.0,
+      "pico_oyentes": 10,
+      "unicos_medios": 6.0,
+      "minutos_escuchados_estimados": 180,
+      "por_dia": {
+        "lun": 9.0
+      }
+    },
+    {
+      "programa": "La Hora Vikinga",
+      "es_grabacion": false,
+      "muestras": 4,
+      "oyentes_medios": 9.0,
+      "pico_oyentes": 10,
+      "unicos_medios": 6.0,
+      "minutos_escuchados_estimados": 360,
+      "por_dia": {
+        "mie": 9.0
       }
     },
     {
       "programa": "El Presente es Hostelería",
       "es_grabacion": false,
-      "muestras": 1,
+      "muestras": 3,
       "oyentes_medios": 9.0,
       "pico_oyentes": 9,
       "unicos_medios": 6.0,
-      "minutos_escuchados_estimados": 90,
+      "minutos_escuchados_estimados": 270,
       "por_dia": {
         "lun": 9.0
       }
@@ -161,6 +247,18 @@
     {
       "programa": "ADN Informativo (Virginia)",
       "es_grabacion": false,
+      "muestras": 2,
+      "oyentes_medios": 9.0,
+      "pico_oyentes": 9,
+      "unicos_medios": 6.0,
+      "minutos_escuchados_estimados": 180,
+      "por_dia": {
+        "mar": 9.0
+      }
+    },
+    {
+      "programa": "Grabación Senik Magazine (M. Ruiz)",
+      "es_grabacion": true,
       "muestras": 1,
       "oyentes_medios": 9.0,
       "pico_oyentes": 9,
@@ -171,93 +269,81 @@
       }
     },
     {
+      "programa": "Descontrol",
+      "es_grabacion": false,
+      "muestras": 2,
+      "oyentes_medios": 9.0,
+      "pico_oyentes": 9,
+      "unicos_medios": 6.0,
+      "minutos_escuchados_estimados": 180,
+      "por_dia": {
+        "mar": 9.0
+      }
+    },
+    {
+      "programa": "Emisión Hablemos de Todo",
+      "es_grabacion": false,
+      "muestras": 2,
+      "oyentes_medios": 9.0,
+      "pico_oyentes": 9,
+      "unicos_medios": 6.0,
+      "minutos_escuchados_estimados": 180,
+      "por_dia": {
+        "vie": 9.0
+      }
+    },
+    {
       "programa": "La Torre de Babel",
       "es_grabacion": false,
-      "muestras": 3,
-      "oyentes_medios": 8.3,
-      "pico_oyentes": 9,
-      "unicos_medios": 5.3,
-      "minutos_escuchados_estimados": 250,
+      "muestras": 4,
+      "oyentes_medios": 8.8,
+      "pico_oyentes": 10,
+      "unicos_medios": 5.8,
+      "minutos_escuchados_estimados": 350,
       "por_dia": {
-        "mar": 8.3
-      }
-    },
-    {
-      "programa": "Emisión Entrevista Miriam",
-      "es_grabacion": false,
-      "muestras": 1,
-      "oyentes_medios": 8.0,
-      "pico_oyentes": 8,
-      "unicos_medios": 5.0,
-      "minutos_escuchados_estimados": 80,
-      "por_dia": {
-        "mar": 8.0
-      }
-    },
-    {
-      "programa": "Raíces del Balón",
-      "es_grabacion": false,
-      "muestras": 1,
-      "oyentes_medios": 8.0,
-      "pico_oyentes": 8,
-      "unicos_medios": 5.0,
-      "minutos_escuchados_estimados": 80,
-      "por_dia": {
-        "lun": 8.0
+        "mar": 8.8
       }
     },
     {
       "programa": "El Club del Buen Turismo",
       "es_grabacion": false,
-      "muestras": 1,
-      "oyentes_medios": 8.0,
-      "pico_oyentes": 8,
-      "unicos_medios": 5.0,
-      "minutos_escuchados_estimados": 80,
+      "muestras": 3,
+      "oyentes_medios": 8.7,
+      "pico_oyentes": 9,
+      "unicos_medios": 5.7,
+      "minutos_escuchados_estimados": 260,
       "por_dia": {
-        "mie": 8.0
-      }
-    },
-    {
-      "programa": "La Hora Vikinga",
-      "es_grabacion": false,
-      "muestras": 1,
-      "oyentes_medios": 8.0,
-      "pico_oyentes": 8,
-      "unicos_medios": 5.0,
-      "minutos_escuchados_estimados": 80,
-      "por_dia": {
-        "mie": 8.0
+        "mie": 8.7
       }
     },
     {
       "programa": "Sin Peros en la Lengua",
       "es_grabacion": false,
-      "muestras": 1,
-      "oyentes_medios": 7.0,
-      "pico_oyentes": 7,
-      "unicos_medios": 4.0,
-      "minutos_escuchados_estimados": 70,
+      "muestras": 2,
+      "oyentes_medios": 8.5,
+      "pico_oyentes": 10,
+      "unicos_medios": 5.5,
+      "minutos_escuchados_estimados": 170,
       "por_dia": {
-        "lun": 7.0
+        "lun": 8.5
       }
     },
     {
       "programa": "Sin programa (música)",
       "es_grabacion": false,
-      "muestras": 159,
-      "oyentes_medios": 10.2,
-      "pico_oyentes": 40,
-      "unicos_medios": 7.1,
-      "minutos_escuchados_estimados": 16250,
+      "muestras": 339,
+      "oyentes_medios": 10.5,
+      "pico_oyentes": 64,
+      "unicos_medios": 7.5,
+      "minutos_escuchados_estimados": 35660,
       "por_dia": {
-        "vie": 10.9,
-        "sab": 10.6,
-        "dom": 9.5,
-        "lun": 9.8,
-        "mar": 8.3,
-        "mie": 13.6,
-        "jue": 10.1
+        "vie": 10.0,
+        "sab": 12.1,
+        "dom": 10.6,
+        "lun": 9.5,
+        "mar": 9.2,
+        "mie": 10.7,
+        "jue": 9.9
       }
     }
   ]
