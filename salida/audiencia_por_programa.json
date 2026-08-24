@@ -1,11 +1,11 @@
 {
   "meta": {
     "estacion": "RCE 106.9 FM",
-    "generado": "2026-08-24T07:52:37Z",
-    "total_muestras": 491,
+    "generado": "2026-08-24T08:34:12Z",
+    "total_muestras": 492,
     "intervalo_minutos": 10,
     "desde": "2026-07-16T20:28+02:00",
-    "hasta": "2026-08-24T09:52+02:00"
+    "hasta": "2026-08-24T10:34+02:00"
   },
   "programas": [
     {
@@ -305,6 +305,18 @@
       }
     },
     {
+      "programa": "Sin Peros en la Lengua",
+      "es_grabacion": false,
+      "muestras": 3,
+      "oyentes_medios": 8.7,
+      "pico_oyentes": 10,
+      "unicos_medios": 5.7,
+      "minutos_escuchados_estimados": 260,
+      "por_dia": {
+        "lun": 8.7
+      }
+    },
+    {
       "programa": "El Club del Buen Turismo",
       "es_grabacion": false,
       "muestras": 3,
@@ -314,18 +326,6 @@
       "minutos_escuchados_estimados": 260,
       "por_dia": {
         "mie": 8.7
-      }
-    },
-    {
-      "programa": "Sin Peros en la Lengua",
-      "es_grabacion": false,
-      "muestras": 2,
-      "oyentes_medios": 8.5,
-      "pico_oyentes": 10,
-      "unicos_medios": 5.5,
-      "minutos_escuchados_estimados": 170,
-      "por_dia": {
-        "lun": 8.5
       }
     },
     {
