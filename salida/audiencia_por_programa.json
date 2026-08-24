@@ -1,11 +1,11 @@
 {
   "meta": {
     "estacion": "RCE 106.9 FM",
-    "generado": "2026-08-24T17:02:07Z",
-    "total_muestras": 503,
+    "generado": "2026-08-24T17:53:38Z",
+    "total_muestras": 504,
     "intervalo_minutos": 10,
     "desde": "2026-07-16T20:28+02:00",
-    "hasta": "2026-08-24T19:02+02:00"
+    "hasta": "2026-08-24T19:53+02:00"
   },
   "programas": [
     {
@@ -209,6 +209,18 @@
       }
     },
     {
+      "programa": "El Presente es Hostelería",
+      "es_grabacion": false,
+      "muestras": 5,
+      "oyentes_medios": 9.2,
+      "pico_oyentes": 10,
+      "unicos_medios": 6.4,
+      "minutos_escuchados_estimados": 460,
+      "por_dia": {
+        "lun": 9.2
+      }
+    },
+    {
       "programa": "Raíces del Balón",
       "es_grabacion": false,
       "muestras": 2,
@@ -230,18 +242,6 @@
       "minutos_escuchados_estimados": 360,
       "por_dia": {
         "mie": 9.0
-      }
-    },
-    {
-      "programa": "El Presente es Hostelería",
-      "es_grabacion": false,
-      "muestras": 4,
-      "oyentes_medios": 9.0,
-      "pico_oyentes": 9,
-      "unicos_medios": 6.0,
-      "minutos_escuchados_estimados": 360,
-      "por_dia": {
-        "lun": 9.0
       }
     },
     {
