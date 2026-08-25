@@ -1,11 +1,11 @@
 {
   "meta": {
     "estacion": "RCE 106.9 FM",
-    "generado": "2026-08-25T17:51:33Z",
-    "total_muestras": 536,
+    "generado": "2026-08-25T18:21:08Z",
+    "total_muestras": 537,
     "intervalo_minutos": 10,
     "desde": "2026-07-16T20:28+02:00",
-    "hasta": "2026-08-25T19:51+02:00"
+    "hasta": "2026-08-25T20:21+02:00"
   },
   "programas": [
     {
@@ -209,6 +209,18 @@
       }
     },
     {
+      "programa": "ADN Informativo (Virginia)",
+      "es_grabacion": false,
+      "muestras": 3,
+      "oyentes_medios": 9.3,
+      "pico_oyentes": 10,
+      "unicos_medios": 6.3,
+      "minutos_escuchados_estimados": 280,
+      "por_dia": {
+        "mar": 9.3
+      }
+    },
+    {
       "programa": "El Club del Bienestar",
       "es_grabacion": false,
       "muestras": 4,
@@ -254,18 +266,6 @@
       "minutos_escuchados_estimados": 360,
       "por_dia": {
         "mie": 9.0
-      }
-    },
-    {
-      "programa": "ADN Informativo (Virginia)",
-      "es_grabacion": false,
-      "muestras": 2,
-      "oyentes_medios": 9.0,
-      "pico_oyentes": 9,
-      "unicos_medios": 6.0,
-      "minutos_escuchados_estimados": 180,
-      "por_dia": {
-        "mar": 9.0
       }
     },
     {
