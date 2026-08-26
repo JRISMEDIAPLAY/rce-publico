@@ -1,11 +1,11 @@
 {
   "meta": {
     "estacion": "RCE 106.9 FM",
-    "generado": "2026-08-26T12:25:12Z",
-    "total_muestras": 562,
+    "generado": "2026-08-26T13:30:58Z",
+    "total_muestras": 563,
     "intervalo_minutos": 10,
     "desde": "2026-07-16T20:28+02:00",
-    "hasta": "2026-08-26T14:25+02:00"
+    "hasta": "2026-08-26T15:30+02:00"
   },
   "programas": [
     {
@@ -77,6 +77,18 @@
       }
     },
     {
+      "programa": "Miércoles de Tardeo",
+      "es_grabacion": false,
+      "muestras": 2,
+      "oyentes_medios": 11.0,
+      "pico_oyentes": 12,
+      "unicos_medios": 8.0,
+      "minutos_escuchados_estimados": 220,
+      "por_dia": {
+        "mie": 11.0
+      }
+    },
+    {
       "programa": "El Club de Inventores",
       "es_grabacion": false,
       "muestras": 3,
@@ -98,18 +110,6 @@
       "minutos_escuchados_estimados": 200,
       "por_dia": {
         "jue": 10.0
-      }
-    },
-    {
-      "programa": "Miércoles de Tardeo",
-      "es_grabacion": false,
-      "muestras": 1,
-      "oyentes_medios": 10.0,
-      "pico_oyentes": 10,
-      "unicos_medios": 7.0,
-      "minutos_escuchados_estimados": 100,
-      "por_dia": {
-        "mie": 10.0
       }
     },
     {
