@@ -1,11 +1,11 @@
 {
   "meta": {
     "estacion": "RCE 106.9 FM",
-    "generado": "2026-08-26T08:05:36Z",
-    "total_muestras": 556,
+    "generado": "2026-08-26T09:07:51Z",
+    "total_muestras": 557,
     "intervalo_minutos": 10,
     "desde": "2026-07-16T20:28+02:00",
-    "hasta": "2026-08-26T10:05+02:00"
+    "hasta": "2026-08-26T11:07+02:00"
   },
   "programas": [
     {
@@ -63,14 +63,14 @@
     {
       "programa": "Kapital Empresa",
       "es_grabacion": false,
-      "muestras": 19,
-      "oyentes_medios": 11.1,
+      "muestras": 20,
+      "oyentes_medios": 11.2,
       "pico_oyentes": 17,
-      "unicos_medios": 7.9,
-      "minutos_escuchados_estimados": 2110,
+      "unicos_medios": 8.0,
+      "minutos_escuchados_estimados": 2230,
       "por_dia": {
         "mar": 12.4,
-        "mie": 10.7,
+        "mie": 11.0,
         "jue": 10.2,
         "vie": 11.0,
         "lun": 10.5
