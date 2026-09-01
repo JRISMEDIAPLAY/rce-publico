@@ -1,11 +1,11 @@
 {
   "meta": {
     "estacion": "RCE 106.9 FM",
-    "generado": "2026-09-01T13:34:19Z",
-    "total_muestras": 593,
+    "generado": "2026-09-01T17:28:51Z",
+    "total_muestras": 594,
     "intervalo_minutos": 10,
     "desde": "2026-07-16T20:28+02:00",
-    "hasta": "2026-09-01T15:34+02:00"
+    "hasta": "2026-09-01T19:28+02:00"
   },
   "programas": [
     {
@@ -271,11 +271,11 @@
     {
       "programa": "Descontrol",
       "es_grabacion": false,
-      "muestras": 4,
+      "muestras": 5,
       "oyentes_medios": 9.2,
       "pico_oyentes": 10,
       "unicos_medios": 6.2,
-      "minutos_escuchados_estimados": 370,
+      "minutos_escuchados_estimados": 460,
       "por_dia": {
         "mar": 9.2
       }
