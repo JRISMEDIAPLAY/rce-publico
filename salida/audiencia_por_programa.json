@@ -1,11 +1,11 @@
 {
   "meta": {
     "estacion": "RCE 106.9 FM",
-    "generado": "2026-09-02T09:44:51Z",
-    "total_muestras": 599,
+    "generado": "2026-09-02T13:55:33Z",
+    "total_muestras": 600,
     "intervalo_minutos": 10,
     "desde": "2026-07-16T20:28+02:00",
-    "hasta": "2026-09-02T11:44+02:00"
+    "hasta": "2026-09-02T15:55+02:00"
   },
   "programas": [
     {
@@ -61,6 +61,18 @@
       }
     },
     {
+      "programa": "Miércoles de Tardeo",
+      "es_grabacion": false,
+      "muestras": 3,
+      "oyentes_medios": 11.3,
+      "pico_oyentes": 12,
+      "unicos_medios": 8.3,
+      "minutos_escuchados_estimados": 340,
+      "por_dia": {
+        "mie": 11.3
+      }
+    },
+    {
       "programa": "Kapital Empresa",
       "es_grabacion": false,
       "muestras": 21,
@@ -74,18 +86,6 @@
         "jue": 10.2,
         "vie": 11.0,
         "lun": 10.5
-      }
-    },
-    {
-      "programa": "Miércoles de Tardeo",
-      "es_grabacion": false,
-      "muestras": 2,
-      "oyentes_medios": 11.0,
-      "pico_oyentes": 12,
-      "unicos_medios": 8.0,
-      "minutos_escuchados_estimados": 220,
-      "por_dia": {
-        "mie": 11.0
       }
     },
     {
