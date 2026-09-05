@@ -1,11 +1,11 @@
 {
   "meta": {
     "estacion": "RCE 106.9 FM",
-    "generado": "2026-09-05T05:55:05Z",
-    "total_muestras": 620,
+    "generado": "2026-09-05T09:34:14Z",
+    "total_muestras": 621,
     "intervalo_minutos": 10,
     "desde": "2026-07-16T20:28+02:00",
-    "hasta": "2026-09-05T07:55+02:00"
+    "hasta": "2026-09-05T11:34+02:00"
   },
   "programas": [
     {
@@ -149,18 +149,6 @@
       }
     },
     {
-      "programa": "English Radio",
-      "es_grabacion": false,
-      "muestras": 7,
-      "oyentes_medios": 9.7,
-      "pico_oyentes": 12,
-      "unicos_medios": 6.7,
-      "minutos_escuchados_estimados": 680,
-      "por_dia": {
-        "sab": 9.7
-      }
-    },
-    {
       "programa": "La Hora de Rosa",
       "es_grabacion": false,
       "muestras": 3,
@@ -194,6 +182,18 @@
       "minutos_escuchados_estimados": 380,
       "por_dia": {
         "mar": 9.5
+      }
+    },
+    {
+      "programa": "English Radio",
+      "es_grabacion": false,
+      "muestras": 8,
+      "oyentes_medios": 9.5,
+      "pico_oyentes": 12,
+      "unicos_medios": 6.5,
+      "minutos_escuchados_estimados": 760,
+      "por_dia": {
+        "sab": 9.5
       }
     },
     {
