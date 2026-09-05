@@ -1,11 +1,11 @@
 {
   "meta": {
     "estacion": "RCE 106.9 FM",
-    "generado": "2026-09-05T09:34:14Z",
-    "total_muestras": 621,
+    "generado": "2026-09-05T13:04:49Z",
+    "total_muestras": 622,
     "intervalo_minutos": 10,
     "desde": "2026-07-16T20:28+02:00",
-    "hasta": "2026-09-05T11:34+02:00"
+    "hasta": "2026-09-05T15:04+02:00"
   },
   "programas": [
     {
@@ -125,6 +125,18 @@
       }
     },
     {
+      "programa": "La Hora de Rosa",
+      "es_grabacion": false,
+      "muestras": 4,
+      "oyentes_medios": 10.0,
+      "pico_oyentes": 11,
+      "unicos_medios": 7.0,
+      "minutos_escuchados_estimados": 400,
+      "por_dia": {
+        "sab": 10.0
+      }
+    },
+    {
       "programa": "Starlink Talent",
       "es_grabacion": false,
       "muestras": 8,
@@ -146,18 +158,6 @@
       "minutos_escuchados_estimados": 290,
       "por_dia": {
         "lun": 9.7
-      }
-    },
-    {
-      "programa": "La Hora de Rosa",
-      "es_grabacion": false,
-      "muestras": 3,
-      "oyentes_medios": 9.7,
-      "pico_oyentes": 11,
-      "unicos_medios": 6.7,
-      "minutos_escuchados_estimados": 290,
-      "por_dia": {
-        "sab": 9.7
       }
     },
     {
