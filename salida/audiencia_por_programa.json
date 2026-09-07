@@ -1,11 +1,11 @@
 {
   "meta": {
     "estacion": "RCE 106.9 FM",
-    "generado": "2026-09-07T12:48:47Z",
-    "total_muestras": 638,
+    "generado": "2026-09-07T17:59:07Z",
+    "total_muestras": 639,
     "intervalo_minutos": 10,
     "desde": "2026-07-16T20:28+02:00",
-    "hasta": "2026-09-07T14:48+02:00"
+    "hasta": "2026-09-07T19:59+02:00"
   },
   "programas": [
     {
@@ -271,11 +271,11 @@
     {
       "programa": "El Presente es Hostelería",
       "es_grabacion": false,
-      "muestras": 5,
+      "muestras": 6,
       "oyentes_medios": 9.2,
       "pico_oyentes": 10,
-      "unicos_medios": 6.4,
-      "minutos_escuchados_estimados": 460,
+      "unicos_medios": 6.3,
+      "minutos_escuchados_estimados": 550,
       "por_dia": {
         "lun": 9.2
       }
