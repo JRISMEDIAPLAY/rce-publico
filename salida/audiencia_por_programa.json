@@ -1,11 +1,11 @@
 {
   "meta": {
     "estacion": "RCE 106.9 FM",
-    "generado": "2026-09-09T01:53:00Z",
-    "total_muestras": 649,
+    "generado": "2026-09-09T06:50:03Z",
+    "total_muestras": 650,
     "intervalo_minutos": 10,
     "desde": "2026-07-16T20:28+02:00",
-    "hasta": "2026-09-09T03:52+02:00"
+    "hasta": "2026-09-09T08:50+02:00"
   },
   "programas": [
     {
@@ -245,18 +245,6 @@
       }
     },
     {
-      "programa": "La Hora Vikinga",
-      "es_grabacion": false,
-      "muestras": 6,
-      "oyentes_medios": 9.2,
-      "pico_oyentes": 10,
-      "unicos_medios": 6.0,
-      "minutos_escuchados_estimados": 550,
-      "por_dia": {
-        "mie": 9.2
-      }
-    },
-    {
       "programa": "El Presente es Hostelería",
       "es_grabacion": false,
       "muestras": 6,
@@ -290,6 +278,18 @@
       "minutos_escuchados_estimados": 450,
       "por_dia": {
         "mar": 9.0
+      }
+    },
+    {
+      "programa": "La Hora Vikinga",
+      "es_grabacion": false,
+      "muestras": 7,
+      "oyentes_medios": 9.0,
+      "pico_oyentes": 10,
+      "unicos_medios": 6.3,
+      "minutos_escuchados_estimados": 630,
+      "por_dia": {
+        "mie": 9.0
       }
     },
     {
