@@ -1,11 +1,11 @@
 {
   "meta": {
     "estacion": "RCE 106.9 FM",
-    "generado": "2026-09-11T13:40:30Z",
-    "total_muestras": 665,
+    "generado": "2026-09-11T17:23:09Z",
+    "total_muestras": 666,
     "intervalo_minutos": 10,
     "desde": "2026-07-16T20:28+02:00",
-    "hasta": "2026-09-11T15:40+02:00"
+    "hasta": "2026-09-11T19:23+02:00"
   },
   "programas": [
     {
@@ -221,18 +221,6 @@
       }
     },
     {
-      "programa": "Emisión Hablemos de Todo",
-      "es_grabacion": false,
-      "muestras": 3,
-      "oyentes_medios": 9.3,
-      "pico_oyentes": 10,
-      "unicos_medios": 6.3,
-      "minutos_escuchados_estimados": 280,
-      "por_dia": {
-        "vie": 9.3
-      }
-    },
-    {
       "programa": "La Torre de Babel",
       "es_grabacion": false,
       "muestras": 6,
@@ -314,6 +302,18 @@
       "minutos_escuchados_estimados": 260,
       "por_dia": {
         "lun": 8.7
+      }
+    },
+    {
+      "programa": "Emisión Hablemos de Todo",
+      "es_grabacion": false,
+      "muestras": 4,
+      "oyentes_medios": 8.0,
+      "pico_oyentes": 10,
+      "unicos_medios": 5.8,
+      "minutos_escuchados_estimados": 320,
+      "por_dia": {
+        "vie": 8.0
       }
     },
     {
