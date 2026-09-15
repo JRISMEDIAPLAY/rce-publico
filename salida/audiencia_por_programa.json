@@ -1,11 +1,11 @@
 {
   "meta": {
     "estacion": "RCE 106.9 FM",
-    "generado": "2026-09-15T10:35:47Z",
-    "total_muestras": 692,
+    "generado": "2026-09-15T15:19:18Z",
+    "total_muestras": 693,
     "intervalo_minutos": 10,
     "desde": "2026-07-16T20:28+02:00",
-    "hasta": "2026-09-15T12:35+02:00"
+    "hasta": "2026-09-15T17:19+02:00"
   },
   "programas": [
     {
@@ -245,18 +245,6 @@
       }
     },
     {
-      "programa": "Emisión Entrevista Miriam",
-      "es_grabacion": false,
-      "muestras": 5,
-      "oyentes_medios": 9.0,
-      "pico_oyentes": 10,
-      "unicos_medios": 6.6,
-      "minutos_escuchados_estimados": 450,
-      "por_dia": {
-        "mar": 9.0
-      }
-    },
-    {
       "programa": "La Hora Vikinga",
       "es_grabacion": false,
       "muestras": 7,
@@ -290,6 +278,18 @@
       "minutos_escuchados_estimados": 260,
       "por_dia": {
         "lun": 8.7
+      }
+    },
+    {
+      "programa": "Emisión Entrevista Miriam",
+      "es_grabacion": false,
+      "muestras": 6,
+      "oyentes_medios": 8.5,
+      "pico_oyentes": 10,
+      "unicos_medios": 6.5,
+      "minutos_escuchados_estimados": 510,
+      "por_dia": {
+        "mar": 8.5
       }
     },
     {
