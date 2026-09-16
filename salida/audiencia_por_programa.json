@@ -1,11 +1,11 @@
 {
   "meta": {
     "estacion": "RCE 106.9 FM",
-    "generado": "2026-09-16T10:06:46Z",
-    "total_muestras": 697,
+    "generado": "2026-09-16T15:03:54Z",
+    "total_muestras": 698,
     "intervalo_minutos": 10,
     "desde": "2026-07-16T20:28+02:00",
-    "hasta": "2026-09-16T12:06+02:00"
+    "hasta": "2026-09-16T17:03+02:00"
   },
   "programas": [
     {
@@ -37,18 +37,6 @@
       }
     },
     {
-      "programa": "Metro Cuadrado",
-      "es_grabacion": false,
-      "muestras": 4,
-      "oyentes_medios": 12.2,
-      "pico_oyentes": 13,
-      "unicos_medios": 9.2,
-      "minutos_escuchados_estimados": 490,
-      "por_dia": {
-        "mie": 12.2
-      }
-    },
-    {
       "programa": "Grabación Sin Control",
       "es_grabacion": true,
       "muestras": 2,
@@ -70,6 +58,18 @@
       "minutos_escuchados_estimados": 340,
       "por_dia": {
         "mie": 11.3
+      }
+    },
+    {
+      "programa": "Metro Cuadrado",
+      "es_grabacion": false,
+      "muestras": 5,
+      "oyentes_medios": 11.0,
+      "pico_oyentes": 13,
+      "unicos_medios": 8.6,
+      "minutos_escuchados_estimados": 550,
+      "por_dia": {
+        "mie": 11.0
       }
     },
     {
