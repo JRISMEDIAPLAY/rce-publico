@@ -1,11 +1,11 @@
 {
   "meta": {
     "estacion": "RCE 106.9 FM",
-    "generado": "2026-09-17T02:40:01Z",
-    "total_muestras": 702,
+    "generado": "2026-09-17T08:04:01Z",
+    "total_muestras": 703,
     "intervalo_minutos": 10,
     "desde": "2026-07-16T20:28+02:00",
-    "hasta": "2026-09-17T04:40+02:00"
+    "hasta": "2026-09-17T10:04+02:00"
   },
   "programas": [
     {
@@ -110,18 +110,6 @@
       "minutos_escuchados_estimados": 310,
       "por_dia": {
         "mie": 10.3
-      }
-    },
-    {
-      "programa": "Francisco Sierra (Cultural)",
-      "es_grabacion": false,
-      "muestras": 2,
-      "oyentes_medios": 10.0,
-      "pico_oyentes": 11,
-      "unicos_medios": 7.0,
-      "minutos_escuchados_estimados": 200,
-      "por_dia": {
-        "jue": 10.0
       }
     },
     {
@@ -278,6 +266,18 @@
       "minutos_escuchados_estimados": 260,
       "por_dia": {
         "lun": 8.7
+      }
+    },
+    {
+      "programa": "Francisco Sierra (Cultural)",
+      "es_grabacion": false,
+      "muestras": 3,
+      "oyentes_medios": 8.7,
+      "pico_oyentes": 11,
+      "unicos_medios": 6.7,
+      "minutos_escuchados_estimados": 260,
+      "por_dia": {
+        "jue": 8.7
       }
     },
     {
