@@ -1,11 +1,11 @@
 {
   "meta": {
     "estacion": "RCE 106.9 FM",
-    "generado": "2026-09-19T06:04:43Z",
-    "total_muestras": 716,
+    "generado": "2026-09-19T11:14:32Z",
+    "total_muestras": 717,
     "intervalo_minutos": 10,
     "desde": "2026-07-16T20:28+02:00",
-    "hasta": "2026-09-19T08:04+02:00"
+    "hasta": "2026-09-19T13:14+02:00"
   },
   "programas": [
     {
@@ -173,18 +173,6 @@
       }
     },
     {
-      "programa": "En la Ola Radio",
-      "es_grabacion": false,
-      "muestras": 7,
-      "oyentes_medios": 9.3,
-      "pico_oyentes": 12,
-      "unicos_medios": 6.4,
-      "minutos_escuchados_estimados": 650,
-      "por_dia": {
-        "sab": 9.3
-      }
-    },
-    {
       "programa": "ADN Informativo (Virginia)",
       "es_grabacion": false,
       "muestras": 3,
@@ -254,6 +242,18 @@
       "minutos_escuchados_estimados": 90,
       "por_dia": {
         "mar": 9.0
+      }
+    },
+    {
+      "programa": "En la Ola Radio",
+      "es_grabacion": false,
+      "muestras": 8,
+      "oyentes_medios": 8.8,
+      "pico_oyentes": 12,
+      "unicos_medios": 6.2,
+      "minutos_escuchados_estimados": 700,
+      "por_dia": {
+        "sab": 8.8
       }
     },
     {
