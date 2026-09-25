@@ -1,11 +1,11 @@
 {
   "meta": {
     "estacion": "RCE 106.9 FM",
-    "generado": "2026-09-25T13:18:59Z",
-    "total_muestras": 755,
+    "generado": "2026-09-25T17:59:40Z",
+    "total_muestras": 756,
     "intervalo_minutos": 10,
     "desde": "2026-07-16T20:28+02:00",
-    "hasta": "2026-09-25T15:18+02:00"
+    "hasta": "2026-09-25T19:59+02:00"
   },
   "programas": [
     {
@@ -269,6 +269,18 @@
       }
     },
     {
+      "programa": "Emisión Hablemos de Todo",
+      "es_grabacion": false,
+      "muestras": 5,
+      "oyentes_medios": 8.4,
+      "pico_oyentes": 10,
+      "unicos_medios": 6.0,
+      "minutos_escuchados_estimados": 420,
+      "por_dia": {
+        "vie": 8.4
+      }
+    },
+    {
       "programa": "Descontrol",
       "es_grabacion": false,
       "muestras": 6,
@@ -302,18 +314,6 @@
       "minutos_escuchados_estimados": 320,
       "por_dia": {
         "lun": 8.0
-      }
-    },
-    {
-      "programa": "Emisión Hablemos de Todo",
-      "es_grabacion": false,
-      "muestras": 4,
-      "oyentes_medios": 8.0,
-      "pico_oyentes": 10,
-      "unicos_medios": 5.8,
-      "minutos_escuchados_estimados": 320,
-      "por_dia": {
-        "vie": 8.0
       }
     },
     {
