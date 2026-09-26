@@ -1,11 +1,11 @@
 {
   "meta": {
     "estacion": "RCE 106.9 FM",
-    "generado": "2026-09-26T08:52:50Z",
-    "total_muestras": 760,
+    "generado": "2026-09-26T13:26:38Z",
+    "total_muestras": 761,
     "intervalo_minutos": 10,
     "desde": "2026-07-16T20:28+02:00",
-    "hasta": "2026-09-26T10:52+02:00"
+    "hasta": "2026-09-26T15:26+02:00"
   },
   "programas": [
     {
@@ -89,6 +89,18 @@
       }
     },
     {
+      "programa": "La Hora de Rosa",
+      "es_grabacion": false,
+      "muestras": 5,
+      "oyentes_medios": 10.4,
+      "pico_oyentes": 12,
+      "unicos_medios": 7.4,
+      "minutos_escuchados_estimados": 520,
+      "por_dia": {
+        "sab": 10.4
+      }
+    },
+    {
       "programa": "El Club de Inventores",
       "es_grabacion": false,
       "muestras": 3,
@@ -98,18 +110,6 @@
       "minutos_escuchados_estimados": 310,
       "por_dia": {
         "lun": 10.3
-      }
-    },
-    {
-      "programa": "La Hora de Rosa",
-      "es_grabacion": false,
-      "muestras": 4,
-      "oyentes_medios": 10.0,
-      "pico_oyentes": 11,
-      "unicos_medios": 7.0,
-      "minutos_escuchados_estimados": 400,
-      "por_dia": {
-        "sab": 10.0
       }
     },
     {
