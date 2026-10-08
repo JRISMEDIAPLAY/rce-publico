@@ -1,11 +1,11 @@
 {
   "meta": {
     "estacion": "RCE 106.9 FM",
-    "generado": "2026-10-08T07:36:47Z",
-    "total_muestras": 819,
+    "generado": "2026-10-08T15:01:05Z",
+    "total_muestras": 820,
     "intervalo_minutos": 10,
     "desde": "2026-07-16T20:28+02:00",
-    "hasta": "2026-10-08T09:36+02:00"
+    "hasta": "2026-10-08T17:01+02:00"
   },
   "programas": [
     {
@@ -37,18 +37,6 @@
       }
     },
     {
-      "programa": "Grabación Sin Control",
-      "es_grabacion": true,
-      "muestras": 2,
-      "oyentes_medios": 11.5,
-      "pico_oyentes": 12,
-      "unicos_medios": 8.5,
-      "minutos_escuchados_estimados": 230,
-      "por_dia": {
-        "jue": 11.5
-      }
-    },
-    {
       "programa": "Miércoles de Tardeo",
       "es_grabacion": false,
       "muestras": 3,
@@ -58,6 +46,18 @@
       "minutos_escuchados_estimados": 340,
       "por_dia": {
         "mie": 11.3
+      }
+    },
+    {
+      "programa": "Grabación Sin Control",
+      "es_grabacion": true,
+      "muestras": 3,
+      "oyentes_medios": 11.3,
+      "pico_oyentes": 12,
+      "unicos_medios": 8.3,
+      "minutos_escuchados_estimados": 340,
+      "por_dia": {
+        "jue": 11.3
       }
     },
     {
