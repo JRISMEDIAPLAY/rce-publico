@@ -1,11 +1,11 @@
 {
   "meta": {
     "estacion": "RCE 106.9 FM",
-    "generado": "2026-10-13T01:29:18Z",
-    "total_muestras": 840,
+    "generado": "2026-10-13T08:08:02Z",
+    "total_muestras": 841,
     "intervalo_minutos": 10,
     "desde": "2026-07-16T20:28+02:00",
-    "hasta": "2026-10-13T03:29+02:00"
+    "hasta": "2026-10-13T10:08+02:00"
   },
   "programas": [
     {
@@ -173,18 +173,6 @@
       }
     },
     {
-      "programa": "La Torre de Babel",
-      "es_grabacion": false,
-      "muestras": 6,
-      "oyentes_medios": 9.2,
-      "pico_oyentes": 11,
-      "unicos_medios": 6.2,
-      "minutos_escuchados_estimados": 550,
-      "por_dia": {
-        "mar": 9.2
-      }
-    },
-    {
       "programa": "La Hora Vikinga",
       "es_grabacion": false,
       "muestras": 9,
@@ -206,6 +194,18 @@
       "minutos_escuchados_estimados": 550,
       "por_dia": {
         "lun": 9.2
+      }
+    },
+    {
+      "programa": "La Torre de Babel",
+      "es_grabacion": false,
+      "muestras": 7,
+      "oyentes_medios": 9.1,
+      "pico_oyentes": 11,
+      "unicos_medios": 6.1,
+      "minutos_escuchados_estimados": 640,
+      "por_dia": {
+        "mar": 9.1
       }
     },
     {
