@@ -1,11 +1,11 @@
 {
   "meta": {
     "estacion": "RCE 106.9 FM",
-    "generado": "2026-10-14T10:22:26Z",
-    "total_muestras": 846,
+    "generado": "2026-10-14T15:16:40Z",
+    "total_muestras": 847,
     "intervalo_minutos": 10,
     "desde": "2026-07-16T20:28+02:00",
-    "hasta": "2026-10-14T12:22+02:00"
+    "hasta": "2026-10-14T17:16+02:00"
   },
   "programas": [
     {
@@ -63,11 +63,11 @@
     {
       "programa": "Metro Cuadrado",
       "es_grabacion": false,
-      "muestras": 5,
+      "muestras": 6,
       "oyentes_medios": 11.0,
       "pico_oyentes": 13,
-      "unicos_medios": 8.6,
-      "minutos_escuchados_estimados": 550,
+      "unicos_medios": 8.5,
+      "minutos_escuchados_estimados": 660,
       "por_dia": {
         "mie": 11.0
       }
