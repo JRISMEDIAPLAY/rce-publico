@@ -1,11 +1,11 @@
 {
   "meta": {
     "estacion": "RCE 106.9 FM",
-    "generado": "2026-10-17T06:20:12Z",
-    "total_muestras": 864,
+    "generado": "2026-10-17T11:00:03Z",
+    "total_muestras": 865,
     "intervalo_minutos": 10,
     "desde": "2026-07-16T20:28+02:00",
-    "hasta": "2026-10-17T08:20+02:00"
+    "hasta": "2026-10-17T13:00+02:00"
   },
   "programas": [
     {
@@ -235,13 +235,13 @@
     {
       "programa": "En la Ola Radio",
       "es_grabacion": false,
-      "muestras": 8,
-      "oyentes_medios": 8.8,
+      "muestras": 9,
+      "oyentes_medios": 8.9,
       "pico_oyentes": 12,
-      "unicos_medios": 6.2,
-      "minutos_escuchados_estimados": 700,
+      "unicos_medios": 6.3,
+      "minutos_escuchados_estimados": 800,
       "por_dia": {
-        "sab": 8.8
+        "sab": 8.9
       }
     },
     {
