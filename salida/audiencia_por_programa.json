@@ -1,11 +1,11 @@
 {
   "meta": {
     "estacion": "RCE 106.9 FM",
-    "generado": "2026-10-19T02:34:38Z",
-    "total_muestras": 879,
+    "generado": "2026-10-19T08:11:26Z",
+    "total_muestras": 880,
     "intervalo_minutos": 10,
     "desde": "2026-07-16T20:28+02:00",
-    "hasta": "2026-10-19T04:34+02:00"
+    "hasta": "2026-10-19T10:11+02:00"
   },
   "programas": [
     {
@@ -307,13 +307,13 @@
     {
       "programa": "Sin Peros en la Lengua",
       "es_grabacion": false,
-      "muestras": 4,
-      "oyentes_medios": 8.0,
+      "muestras": 5,
+      "oyentes_medios": 8.2,
       "pico_oyentes": 10,
       "unicos_medios": 5.8,
-      "minutos_escuchados_estimados": 320,
+      "minutos_escuchados_estimados": 410,
       "por_dia": {
-        "lun": 8.0
+        "lun": 8.2
       }
     },
     {
