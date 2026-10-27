@@ -1,11 +1,11 @@
 {
   "meta": {
     "estacion": "RCE 106.9 FM",
-    "generado": "2026-10-27T14:43:11Z",
-    "total_muestras": 928,
+    "generado": "2026-10-27T19:43:31Z",
+    "total_muestras": 929,
     "intervalo_minutos": 10,
     "desde": "2026-07-16T20:28+02:00",
-    "hasta": "2026-10-27T15:43+01:00"
+    "hasta": "2026-10-27T20:43+01:00"
   },
   "programas": [
     {
@@ -149,18 +149,6 @@
       }
     },
     {
-      "programa": "ADN Informativo (Virginia)",
-      "es_grabacion": false,
-      "muestras": 4,
-      "oyentes_medios": 9.5,
-      "pico_oyentes": 10,
-      "unicos_medios": 6.8,
-      "minutos_escuchados_estimados": 380,
-      "por_dia": {
-        "mar": 9.5
-      }
-    },
-    {
       "programa": "La Corda Fluixa",
       "es_grabacion": false,
       "muestras": 3,
@@ -254,6 +242,18 @@
       "minutos_escuchados_estimados": 620,
       "por_dia": {
         "mar": 8.9
+      }
+    },
+    {
+      "programa": "ADN Informativo (Virginia)",
+      "es_grabacion": false,
+      "muestras": 5,
+      "oyentes_medios": 8.8,
+      "pico_oyentes": 10,
+      "unicos_medios": 6.6,
+      "minutos_escuchados_estimados": 440,
+      "por_dia": {
+        "mar": 8.8
       }
     },
     {
