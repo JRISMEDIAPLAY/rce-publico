@@ -1,11 +1,11 @@
 {
   "meta": {
     "estacion": "RCE 106.9 FM",
-    "generado": "2026-10-28T02:27:15Z",
-    "total_muestras": 931,
+    "generado": "2026-10-28T08:47:58Z",
+    "total_muestras": 932,
     "intervalo_minutos": 10,
     "desde": "2026-07-16T20:28+02:00",
-    "hasta": "2026-10-28T03:27+01:00"
+    "hasta": "2026-10-28T09:47+01:00"
   },
   "programas": [
     {
@@ -163,11 +163,11 @@
     {
       "programa": "La Hora Vikinga",
       "es_grabacion": false,
-      "muestras": 9,
+      "muestras": 10,
       "oyentes_medios": 9.2,
       "pico_oyentes": 11,
-      "unicos_medios": 6.7,
-      "minutos_escuchados_estimados": 830,
+      "unicos_medios": 6.9,
+      "minutos_escuchados_estimados": 920,
       "por_dia": {
         "mie": 9.2
       }
