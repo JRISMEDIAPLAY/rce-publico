@@ -1,11 +1,11 @@
 {
   "meta": {
     "estacion": "RCE 106.9 FM",
-    "generado": "2026-10-29T13:24:31Z",
-    "total_muestras": 937,
+    "generado": "2026-10-29T19:02:55Z",
+    "total_muestras": 938,
     "intervalo_minutos": 10,
     "desde": "2026-07-16T20:28+02:00",
-    "hasta": "2026-10-29T14:24+01:00"
+    "hasta": "2026-10-29T20:02+01:00"
   },
   "programas": [
     {
@@ -125,6 +125,18 @@
       }
     },
     {
+      "programa": "La Corda Fluixa",
+      "es_grabacion": false,
+      "muestras": 4,
+      "oyentes_medios": 9.5,
+      "pico_oyentes": 12,
+      "unicos_medios": 5.8,
+      "minutos_escuchados_estimados": 380,
+      "por_dia": {
+        "jue": 9.5
+      }
+    },
+    {
       "programa": "El Club del Bienestar",
       "es_grabacion": false,
       "muestras": 6,
@@ -146,18 +158,6 @@
       "minutos_escuchados_estimados": 760,
       "por_dia": {
         "sab": 9.5
-      }
-    },
-    {
-      "programa": "La Corda Fluixa",
-      "es_grabacion": false,
-      "muestras": 3,
-      "oyentes_medios": 9.3,
-      "pico_oyentes": 12,
-      "unicos_medios": 5.3,
-      "minutos_escuchados_estimados": 280,
-      "por_dia": {
-        "jue": 9.3
       }
     },
     {
