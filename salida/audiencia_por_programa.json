@@ -1,11 +1,11 @@
 {
   "meta": {
     "estacion": "RCE 106.9 FM",
-    "generado": "2026-11-03T11:07:22Z",
-    "total_muestras": 959,
+    "generado": "2026-11-03T18:30:23Z",
+    "total_muestras": 960,
     "intervalo_minutos": 10,
     "desde": "2026-07-16T20:28+02:00",
-    "hasta": "2026-11-03T12:07+01:00"
+    "hasta": "2026-11-03T19:30+01:00"
   },
   "programas": [
     {
@@ -269,6 +269,18 @@
       }
     },
     {
+      "programa": "Descontrol",
+      "es_grabacion": false,
+      "muestras": 7,
+      "oyentes_medios": 8.7,
+      "pico_oyentes": 11,
+      "unicos_medios": 6.0,
+      "minutos_escuchados_estimados": 610,
+      "por_dia": {
+        "mar": 8.7
+      }
+    },
+    {
       "programa": "Raíces del Balón",
       "es_grabacion": false,
       "muestras": 6,
@@ -278,18 +290,6 @@
       "minutos_escuchados_estimados": 500,
       "por_dia": {
         "lun": 8.3
-      }
-    },
-    {
-      "programa": "Descontrol",
-      "es_grabacion": false,
-      "muestras": 6,
-      "oyentes_medios": 8.3,
-      "pico_oyentes": 10,
-      "unicos_medios": 5.8,
-      "minutos_escuchados_estimados": 500,
-      "por_dia": {
-        "mar": 8.3
       }
     },
     {
