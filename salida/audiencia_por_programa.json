@@ -1,11 +1,11 @@
 {
   "meta": {
     "estacion": "RCE 106.9 FM",
-    "generado": "2026-11-04T11:40:37Z",
-    "total_muestras": 963,
+    "generado": "2026-11-04T18:57:52Z",
+    "total_muestras": 964,
     "intervalo_minutos": 10,
     "desde": "2026-07-16T20:28+02:00",
-    "hasta": "2026-11-04T12:40+01:00"
+    "hasta": "2026-11-04T19:57+01:00"
   },
   "programas": [
     {
@@ -161,6 +161,18 @@
       }
     },
     {
+      "programa": "Scriu cu Cratima",
+      "es_grabacion": false,
+      "muestras": 5,
+      "oyentes_medios": 9.4,
+      "pico_oyentes": 11,
+      "unicos_medios": 7.0,
+      "minutos_escuchados_estimados": 470,
+      "por_dia": {
+        "mie": 9.4
+      }
+    },
+    {
       "programa": "La Hora Vikinga",
       "es_grabacion": false,
       "muestras": 10,
@@ -206,18 +218,6 @@
       "minutos_escuchados_estimados": 90,
       "por_dia": {
         "mar": 9.0
-      }
-    },
-    {
-      "programa": "Scriu cu Cratima",
-      "es_grabacion": false,
-      "muestras": 4,
-      "oyentes_medios": 9.0,
-      "pico_oyentes": 11,
-      "unicos_medios": 6.8,
-      "minutos_escuchados_estimados": 360,
-      "por_dia": {
-        "mie": 9.0
       }
     },
     {
