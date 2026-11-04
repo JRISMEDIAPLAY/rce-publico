@@ -1,24 +1,24 @@
 {
   "meta": {
     "estacion": "RCE 106.9 FM",
-    "generado": "2026-11-04T03:39:40Z",
-    "total_muestras": 962,
+    "generado": "2026-11-04T11:40:37Z",
+    "total_muestras": 963,
     "intervalo_minutos": 10,
     "desde": "2026-07-16T20:28+02:00",
-    "hasta": "2026-11-04T04:39+01:00"
+    "hasta": "2026-11-04T12:40+01:00"
   },
   "programas": [
     {
       "programa": "La Grada",
       "es_grabacion": false,
-      "muestras": 60,
-      "oyentes_medios": 89.2,
+      "muestras": 61,
+      "oyentes_medios": 89.9,
       "pico_oyentes": 140,
-      "unicos_medios": 81.3,
-      "minutos_escuchados_estimados": 53540,
+      "unicos_medios": 81.9,
+      "minutos_escuchados_estimados": 54840,
       "por_dia": {
         "vie": 96.0,
-        "mie": 85.1,
+        "mie": 87.8,
         "lun": 97.0,
         "mar": 92.9,
         "jue": 74.4
