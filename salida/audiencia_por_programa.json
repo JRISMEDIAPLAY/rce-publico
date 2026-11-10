@@ -1,11 +1,11 @@
 {
   "meta": {
     "estacion": "RCE 106.9 FM",
-    "generado": "2026-11-10T11:54:42Z",
-    "total_muestras": 987,
+    "generado": "2026-11-10T18:58:52Z",
+    "total_muestras": 988,
     "intervalo_minutos": 10,
     "desde": "2026-07-16T20:28+02:00",
-    "hasta": "2026-11-10T12:54+01:00"
+    "hasta": "2026-11-10T19:58+01:00"
   },
   "programas": [
     {
@@ -245,6 +245,18 @@
       }
     },
     {
+      "programa": "Descontrol",
+      "es_grabacion": false,
+      "muestras": 8,
+      "oyentes_medios": 8.9,
+      "pico_oyentes": 11,
+      "unicos_medios": 6.1,
+      "minutos_escuchados_estimados": 710,
+      "por_dia": {
+        "mar": 8.9
+      }
+    },
+    {
       "programa": "ADN Informativo (Virginia)",
       "es_grabacion": false,
       "muestras": 5,
@@ -266,18 +278,6 @@
       "minutos_escuchados_estimados": 260,
       "por_dia": {
         "jue": 8.7
-      }
-    },
-    {
-      "programa": "Descontrol",
-      "es_grabacion": false,
-      "muestras": 7,
-      "oyentes_medios": 8.7,
-      "pico_oyentes": 11,
-      "unicos_medios": 6.0,
-      "minutos_escuchados_estimados": 610,
-      "por_dia": {
-        "mar": 8.7
       }
     },
     {
