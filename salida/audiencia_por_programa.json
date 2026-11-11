@@ -1,11 +1,11 @@
 {
   "meta": {
     "estacion": "RCE 106.9 FM",
-    "generado": "2026-11-11T11:31:03Z",
-    "total_muestras": 991,
+    "generado": "2026-11-11T18:56:36Z",
+    "total_muestras": 992,
     "intervalo_minutos": 10,
     "desde": "2026-07-16T20:28+02:00",
-    "hasta": "2026-11-11T12:31+01:00"
+    "hasta": "2026-11-11T19:56+01:00"
   },
   "programas": [
     {
@@ -163,13 +163,13 @@
     {
       "programa": "Scriu cu Cratima",
       "es_grabacion": false,
-      "muestras": 5,
-      "oyentes_medios": 9.4,
+      "muestras": 6,
+      "oyentes_medios": 9.5,
       "pico_oyentes": 11,
       "unicos_medios": 7.0,
-      "minutos_escuchados_estimados": 470,
+      "minutos_escuchados_estimados": 570,
       "por_dia": {
-        "mie": 9.4
+        "mie": 9.5
       }
     },
     {
