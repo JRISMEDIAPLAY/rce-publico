@@ -1,11 +1,11 @@
 {
   "meta": {
     "estacion": "RCE 106.9 FM",
-    "generado": "2026-11-12T08:29:56Z",
-    "total_muestras": 994,
+    "generado": "2026-11-12T16:58:46Z",
+    "total_muestras": 995,
     "intervalo_minutos": 10,
     "desde": "2026-07-16T20:28+02:00",
-    "hasta": "2026-11-12T09:29+01:00"
+    "hasta": "2026-11-12T17:58+01:00"
   },
   "programas": [
     {
@@ -51,11 +51,11 @@
     {
       "programa": "Grabación Sin Control",
       "es_grabacion": true,
-      "muestras": 4,
+      "muestras": 5,
       "oyentes_medios": 11.0,
       "pico_oyentes": 12,
       "unicos_medios": 8.0,
-      "minutos_escuchados_estimados": 440,
+      "minutos_escuchados_estimados": 550,
       "por_dia": {
         "jue": 11.0
       }
