@@ -1,11 +1,11 @@
 {
   "meta": {
     "estacion": "RCE 106.9 FM",
-    "generado": "2026-11-13T10:39:21Z",
-    "total_muestras": 998,
+    "generado": "2026-11-13T18:13:52Z",
+    "total_muestras": 999,
     "intervalo_minutos": 10,
     "desde": "2026-07-16T20:28+02:00",
-    "hasta": "2026-11-13T11:39+01:00"
+    "hasta": "2026-11-13T19:13+01:00"
   },
   "programas": [
     {
@@ -305,6 +305,18 @@
       }
     },
     {
+      "programa": "Emisión Hablemos de Todo",
+      "es_grabacion": false,
+      "muestras": 7,
+      "oyentes_medios": 8.1,
+      "pico_oyentes": 10,
+      "unicos_medios": 6.0,
+      "minutos_escuchados_estimados": 570,
+      "por_dia": {
+        "vie": 8.1
+      }
+    },
+    {
       "programa": "El Club del Buen Turismo",
       "es_grabacion": false,
       "muestras": 6,
@@ -314,18 +326,6 @@
       "minutos_escuchados_estimados": 480,
       "por_dia": {
         "mie": 8.0
-      }
-    },
-    {
-      "programa": "Emisión Hablemos de Todo",
-      "es_grabacion": false,
-      "muestras": 6,
-      "oyentes_medios": 8.0,
-      "pico_oyentes": 10,
-      "unicos_medios": 6.0,
-      "minutos_escuchados_estimados": 480,
-      "por_dia": {
-        "vie": 8.0
       }
     },
     {
