@@ -1,11 +1,11 @@
 {
   "meta": {
     "estacion": "RCE 106.9 FM",
-    "generado": "2026-11-17T08:38:11Z",
-    "total_muestras": 1012,
+    "generado": "2026-11-17T17:57:39Z",
+    "total_muestras": 1013,
     "intervalo_minutos": 10,
     "desde": "2026-07-16T20:28+02:00",
-    "hasta": "2026-11-17T09:38+01:00"
+    "hasta": "2026-11-17T18:57+01:00"
   },
   "programas": [
     {
@@ -211,11 +211,11 @@
     {
       "programa": "Grabación Senik Magazine (M. Ruiz)",
       "es_grabacion": true,
-      "muestras": 1,
+      "muestras": 2,
       "oyentes_medios": 9.0,
       "pico_oyentes": 9,
       "unicos_medios": 6.0,
-      "minutos_escuchados_estimados": 90,
+      "minutos_escuchados_estimados": 180,
       "por_dia": {
         "mar": 9.0
       }
