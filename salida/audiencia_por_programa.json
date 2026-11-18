@@ -1,11 +1,11 @@
 {
   "meta": {
     "estacion": "RCE 106.9 FM",
-    "generado": "2026-11-18T00:24:08Z",
-    "total_muestras": 1014,
+    "generado": "2026-11-18T07:45:44Z",
+    "total_muestras": 1015,
     "intervalo_minutos": 10,
     "desde": "2026-07-16T20:28+02:00",
-    "hasta": "2026-11-18T01:24+01:00"
+    "hasta": "2026-11-18T08:45+01:00"
   },
   "programas": [
     {
@@ -149,6 +149,18 @@
       }
     },
     {
+      "programa": "La Hora Vikinga",
+      "es_grabacion": false,
+      "muestras": 11,
+      "oyentes_medios": 9.5,
+      "pico_oyentes": 12,
+      "unicos_medios": 6.9,
+      "minutos_escuchados_estimados": 1040,
+      "por_dia": {
+        "mie": 9.5
+      }
+    },
+    {
       "programa": "English Radio",
       "es_grabacion": false,
       "muestras": 10,
@@ -170,18 +182,6 @@
       "minutos_escuchados_estimados": 570,
       "por_dia": {
         "mie": 9.5
-      }
-    },
-    {
-      "programa": "La Hora Vikinga",
-      "es_grabacion": false,
-      "muestras": 10,
-      "oyentes_medios": 9.2,
-      "pico_oyentes": 11,
-      "unicos_medios": 6.9,
-      "minutos_escuchados_estimados": 920,
-      "por_dia": {
-        "mie": 9.2
       }
     },
     {
