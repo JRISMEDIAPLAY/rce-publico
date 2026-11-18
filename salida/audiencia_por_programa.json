@@ -1,11 +1,11 @@
 {
   "meta": {
     "estacion": "RCE 106.9 FM",
-    "generado": "2026-11-18T07:45:44Z",
-    "total_muestras": 1015,
+    "generado": "2026-11-18T16:46:20Z",
+    "total_muestras": 1016,
     "intervalo_minutos": 10,
     "desde": "2026-07-16T20:28+02:00",
-    "hasta": "2026-11-18T08:45+01:00"
+    "hasta": "2026-11-18T17:46+01:00"
   },
   "programas": [
     {
@@ -89,18 +89,6 @@
       }
     },
     {
-      "programa": "Metro Cuadrado",
-      "es_grabacion": false,
-      "muestras": 7,
-      "oyentes_medios": 10.4,
-      "pico_oyentes": 13,
-      "unicos_medios": 8.3,
-      "minutos_escuchados_estimados": 730,
-      "por_dia": {
-        "mie": 10.4
-      }
-    },
-    {
       "programa": "El Club de Inventores",
       "es_grabacion": false,
       "muestras": 3,
@@ -110,6 +98,18 @@
       "minutos_escuchados_estimados": 310,
       "por_dia": {
         "lun": 10.3
+      }
+    },
+    {
+      "programa": "Metro Cuadrado",
+      "es_grabacion": false,
+      "muestras": 8,
+      "oyentes_medios": 10.2,
+      "pico_oyentes": 13,
+      "unicos_medios": 8.0,
+      "minutos_escuchados_estimados": 820,
+      "por_dia": {
+        "mie": 10.2
       }
     },
     {
